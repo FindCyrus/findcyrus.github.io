@@ -1,7 +1,7 @@
 # Site settings
 description: This is a new starter to be implemented.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://http://findcyrus.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://findcyrus.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Lorem Ipsum
