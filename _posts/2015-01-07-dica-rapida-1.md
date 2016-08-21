@@ -55,7 +55,7 @@ Com o advento dos devices da apple, ela decidiu criar meta-tags para lerem ícon
 
 De acordo com as versões do iOS e o aparelho, temos os seguintes tamanhos:
 
-<table style="width: 800px">
+<table style="width: 800px" class="testClass">
 <tbody><tr>
 <th>Device</th>
 <th>Screen</th>
