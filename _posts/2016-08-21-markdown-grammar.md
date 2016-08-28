@@ -5,11 +5,11 @@ date: 2016-08-20 20:35:48
 image: '/assets/img/'
 description: 'This will help me to use markdown grammar to build my posts'
 main-class: 'markdown'
-color: '#7AAB13'
+color: '#B31917'
 tags:
 - markdown
 categories:
-twitter_text: 'Basic Markdown grammar'
+twitter_text:
 introduction: 'Basic Markdown grammar'
 ---
 
@@ -57,6 +57,16 @@ function helloworld(){
   console.log(a+b);
 }
 {% endhighlight %}
+
+{% highlight java %}
+1. Class Helloworld{
+2.   public static String name = "Hello world";
+3.   public Helloworld (){
+4.     System.out.println(name);//print the name of the class   
+5.   }
+6. }
+{% endhighlight %}
+
 ### 5.2 Black Background
 Show you the black background
 
