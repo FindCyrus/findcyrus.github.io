@@ -5,7 +5,8 @@
   "main": "gulpfile.js",
   "scripts": {
     "test": "test",
-    "start": "gulp"
+    "start": "gulp",
+    "generate":"./initpost.sh -c Post Title"
   },
   "keywords": [
     "frontend",
