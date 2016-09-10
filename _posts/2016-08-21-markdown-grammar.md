@@ -50,6 +50,15 @@ Haha <s>falar besteiras</s> lala.
 ## 5. Highlight
 
 ### 5.1 grammar Highlight
+```javascript
+function helloworld(){
+  let a = 'hello';
+  let b = 'world';
+  console.log(a+b);
+}
+```
+or
+
 {% highlight javascript %}
 function helloworld(){
   let a = 'hello';
@@ -82,3 +91,8 @@ From http
 
 From this site.
 ![Print do eslint sendo usado](/assets/img/blog-author.jpg)
+
+
+
+## 7. Reference
+![Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
