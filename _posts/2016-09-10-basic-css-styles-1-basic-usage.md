@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basic CSS Styles #1"
+title: "[Basic CSS Styles] <br> #1  Basic Usage"
 date: 2016-09-09 14:25:54
 image: '/assets/img/'
 description: 'List basic css attributes classified by html element'

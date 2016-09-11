@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Codewars Challange] &nbsp Find the odd int"
+title: "[Codewars Challange] <br> Find the odd int"
 date: 2016-08-29 17:27:55
 image: '/assets/img/'
 description: "Given an array, find the int that appears an odd number of times.
