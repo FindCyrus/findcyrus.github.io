@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basic CSS #1"
+title: "Basic CSS Styles #1"
 date: 2016-09-09 14:25:54
 image: '/assets/img/'
 description: 'List basic css attributes classified by html element'
@@ -16,7 +16,7 @@ introduction: 'For each html element, list as much as css attributes that would 
 
 ## 1. Font
 
-There are some of the most widely used styles for font.
+There are several widely used styles for font.
 
 {% highlight css %}
   font-family: FSElliotPro;
