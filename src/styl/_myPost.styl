@@ -1,0 +1,26 @@
+/*
+ALl of the classes are used in posts, in some post, I need to add extra class to elements
+When a new class is added, set a comment related to the post name like
+// 2016-11-06-pseudo-class-pseudo-elements
+*/
+
+//2016-11-06-pseudo-class-pseudo-elements
+.pseudo-class
+  a
+  &:link
+    color #FF0000		/* Unvisited hyperlink */
+  &:visited
+    color #00FF00	/* visited hyperlink */
+  &:hover
+    color #FF00FF	/* hyperlink with mouse on */
+  &:active
+    color #0000FF	/* 选定的链接 */
+
+
+
+.pseudo-nth
+  p:nth-child(2)
+    color blue;
+  p:nth-of-type(2)
+    background-color red;
+}
