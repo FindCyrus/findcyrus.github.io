@@ -53,7 +53,7 @@ For example:
    <span>Test 1</span>
    <p>Test 2</p>
    <p>Test 3</p>
-   <p>Test 4</p>
+   <p class="test">Test 4</p>
  </div>
 
 ```html
@@ -89,10 +89,10 @@ If this is not clear enough to you, Chinese guys may have a further look at [thi
 </div>
 
 ```css
-a:link {color: #FF0000}		/* Unvisited hyperlink */
-a:visited {color: #00FF00}	/* visited hyperlink */
-a:hover {color: #FF00FF}	/* hyperlink with mouse on */
-a:active {color: #0000FF}	/* Selects the link while it is being activated (being clicked on or otherwise activated). */
+a:link {color: red}		/* Unvisited hyperlink */
+a:visited {color: green}	/* visited hyperlink */
+a:hover {color: blue}	/* hyperlink with mouse on */
+a:active {color: gray}	/* Selects the link while it is being activated (being clicked on or otherwise activated). */
 
 /*Defining hover styles for links is great, but it doesn't help out
 those who used keyboard navigation to get to the link. :focus will
